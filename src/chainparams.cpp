@@ -159,7 +159,7 @@ public:
             (250000, uint256S("0x000000000000003887df1f29024b06fc2200b55f8af8f35453d7be294df2d214"))
             (279000, uint256S("0x0000000000000001ae8c72a0b0c301f67e3afca10e819efa9041e458e9bd7e40"))
 */
-            ( 0, uint256S("0x00000000a7978cb4845455e14ab03555af5dd0f9d2066476430a240a240bc4c9")),
+            ( 0, uint256S("0x00000000a7978cb4845455e14ab03555af5dd0f9d2066476430a240a240bc4c9"))
 	    ( 1, uint256S("0x00000000419d2350e7f0d83851a25d9e73d5a2b92bdfbca45c1d65818a065043")), 
             1505208823, //1504946923, // * UNIX timestamp of last checkpoint block
             0,   // * total number of transactions between genesis and last checkpoint
