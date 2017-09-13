@@ -1,12 +1,28 @@
-Bitcoin Core integration/staging tree
+Flurbo Core integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
-https://bitcoincore.org
+https://tba.org
 
-What is Bitcoin?
+What is Flurbo/Bitcoin?
 ----------------
+Like Bitcoin, Flurbo is an experimental new digital currency that enables instant
+payments to anyone, anywhere in the world. Flurbo uses peer-to-peer technology to
+operate with no central authority: managing transactions and issuing money are carried
+out collectively by the network. Flurbo Core is the name of open source software
+which enables the use of this currency.
+
+Flurbo has another goal in place, and that is to enable an idea that's been tossed around
+this idea is: Fair gambling added as a standard transaction.
+By fair gambling we will allow to users to both gamble x Flurbos using the blockchain itself
+thus achieving provably fair gambling with only costs involved being optional transaction fees.
+This idea has been seen / discussed / proven at the following links;
+*will add soon.
+
+Flurbos main goal however is to be for fun, do not expect your Flurbo's to gain in value.
+
+~ 
 
 Bitcoin is an experimental new digital currency that enables instant payments to
 anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
@@ -33,11 +49,11 @@ regularly to indicate new official, stable release versions of Bitcoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The developer [mailing list](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
-should be used to discuss complicated or controversial changes before working
-on a patch set.
+// Will change -- The developer [mailing list](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
+// should be used to discuss complicated or controversial changes before working
+// on a patch set.
 
-Developer IRC can be found on Freenode at #bitcoin-core-dev.
+// Developer IRC can be found on Freenode at #bitcoin-core-dev.
 
 Testing
 -------
