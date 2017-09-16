@@ -1,9 +1,9 @@
-// Copyright (c) 2011-2015 The Bitcoin Core developers
+// Copyright (c) 2011-2015 The Flurbo Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef BITCOIN_QT_INTRO_H
-#define BITCOIN_QT_INTRO_H
+#ifndef FLURBO_QT_INTRO_H
+#define FLURBO_QT_INTRO_H
 
 #include <QDialog>
 #include <QMutex>
@@ -72,4 +72,4 @@ private:
     friend class FreespaceChecker;
 };
 
-#endif // BITCOIN_QT_INTRO_H
+#endif // FLURBO_QT_INTRO_H

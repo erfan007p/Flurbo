@@ -1,0 +1,33 @@
+# /etc/conf.d/flurbod: config file for /etc/init.d/flurbod
+
+# Config file location
+#FLURBOD_CONFIGFILE="/etc/flurbo/flurbo.conf"
+
+# What directory to write pidfile to?  (created and owned by $FLURBOD_USER)
+#FLURBOD_PIDDIR="/var/run/flurbod"
+
+# What filename to give the pidfile
+#FLURBOD_PIDFILE="${FLURBOD_PIDDIR}/flurbod.pid"
+
+# Where to write flurbod data (be mindful that the blockchain is large)
+#FLURBOD_DATADIR="/var/lib/flurbod"
+
+# User and group to own flurbod process
+#FLURBOD_USER="flurbo"
+#FLURBOD_GROUP="flurbo"
+
+# Path to flurbod executable
+#FLURBOD_BIN="/usr/bin/flurbod"
+
+# Nice value to run flurbod under
+#FLURBOD_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+FLURBOD_OPTS="-disablewallet"
+
+# The timeout in seconds OpenRC will wait for flurbod to terminate
+# after a SIGTERM has been raised.
+# Note that this will be mapped as argument to start-stop-daemon's
+# '--retry' option, which means you can specify a retry schedule
+# here. For more information see man 8 start-stop-daemon.
+FLURBOD_SIGTERM_TIMEOUT=60

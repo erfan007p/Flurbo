@@ -1,12 +1,12 @@
 *.tar.gz
 
 *.exe
-src/bitcoin
-src/bitcoind
-src/bitcoin-cli
-src/bitcoin-tx
-src/test/test_bitcoin
-src/qt/test/test_bitcoin-qt
+src/flurbo
+src/flurbod
+src/flurbo-cli
+src/flurbo-tx
+src/test/test_flurbo
+src/qt/test/test_flurbo-qt
 
 # autoreconf
 Makefile.in
@@ -29,8 +29,8 @@ config.log
 config.status
 configure
 libtool
-src/config/bitcoin-config.h
-src/config/bitcoin-config.h.in
+src/config/flurbo-config.h
+src/config/flurbo-config.h.in
 src/config/stamp-h1
 share/setup.nsi
 share/qt/Info.plist
@@ -55,7 +55,7 @@ src/qt/test/moc*.cpp
 *.o
 *.o-*
 *.patch
-.bitcoin
+.flurbo
 *.a
 *.pb.cc
 *.pb.h
@@ -74,12 +74,12 @@ src/qt/test/moc*.cpp
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-bitcoin-qt
-Bitcoin-Qt.app
+flurbo-qt
+Flurbo-Qt.app
 
 # Unit-tests
 Makefile.test
-bitcoin-qt_test
+flurbo-qt_test
 src/test/buildenv.py
 
 # Resources cpp
@@ -93,7 +93,7 @@ build
 *.gcno
 *.gcda
 /*.info
-test_bitcoin.coverage/
+test_flurbo.coverage/
 total.coverage/
 coverage_percent.txt
 
@@ -101,16 +101,16 @@ coverage_percent.txt
 linux-coverage-build
 linux-build
 win32-build
-qa/pull-tester/run-bitcoind-for-test.sh
+qa/pull-tester/run-flurbod-for-test.sh
 qa/pull-tester/tests_config.py
 qa/pull-tester/cache/*
 qa/pull-tester/test.*/*
 qa/tmp
 cache/
-share/BitcoindComparisonTool.jar
+share/FlurbodComparisonTool.jar
 
 !src/leveldb*/Makefile
 
 /doc/doxygen/
 
-libbitcoinconsensus.pc
+libflurboconsensus.pc

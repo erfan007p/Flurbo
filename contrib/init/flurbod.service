@@ -1,0 +1,22 @@
+[Unit]
+Description=Flurbo's distributed currency daemon
+After=network.target
+
+[Service]
+User=flurbo
+Group=flurbo
+
+Type=forking
+PIDFile=/var/lib/flurbod/flurbod.pid
+ExecStart=/usr/bin/flurbod -daemon -pid=/var/lib/flurbod/flurbod.pid \
+-conf=/etc/flurbo/flurbo.conf -datadir=/var/lib/flurbod -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

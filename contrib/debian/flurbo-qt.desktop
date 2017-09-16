@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Flurbo
+Comment=Flurbo P2P Cryptocurrency
+Comment[fr]=Flurbo, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Flurbo, eşten eşe kriptografik sanal para birimi
+Exec=flurbo-qt %u
+Terminal=false
+Type=Application
+Icon=flurbo128
+MimeType=x-scheme-handler/flurbo;
+Categories=Office;Finance;

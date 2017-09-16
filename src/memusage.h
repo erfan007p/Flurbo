@@ -1,9 +1,9 @@
-// Copyright (c) 2015 The Bitcoin developers
+// Copyright (c) 2015 The Flurbo developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef BITCOIN_MEMUSAGE_H
-#define BITCOIN_MEMUSAGE_H
+#ifndef FLURBO_MEMUSAGE_H
+#define FLURBO_MEMUSAGE_H
 
 #include <stdlib.h>
 
@@ -129,4 +129,4 @@ static inline size_t DynamicUsage(const boost::unordered_map<X, Y, Z>& m)
 
 }
 
-#endif // BITCOIN_MEMUSAGE_H
+#endif // FLURBO_MEMUSAGE_H

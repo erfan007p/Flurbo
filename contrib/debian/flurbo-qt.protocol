@@ -1,0 +1,11 @@
+[Protocol]
+exec=flurbo-qt '%u'
+protocol=flurbo
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

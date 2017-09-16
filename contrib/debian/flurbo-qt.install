@@ -1,0 +1,6 @@
+usr/local/bin/flurbo-qt usr/bin
+share/pixmaps/flurbo32.xpm usr/share/pixmaps
+share/pixmaps/flurbo16.xpm usr/share/pixmaps
+share/pixmaps/flurbo128.png usr/share/pixmaps
+debian/flurbo-qt.desktop usr/share/applications
+debian/flurbo-qt.protocol usr/share/kde4/services/

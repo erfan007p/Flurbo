@@ -1,5 +1,5 @@
 // Copyright (c) 2010 Satoshi Nakamoto
-// Copyright (c) 2009-2015 The Bitcoin Core developers
+// Copyright (c) 2009-2015 The Flurbo Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -120,12 +120,12 @@ public:
         vSeeds.clear();
 
 	/* Fix later
-        vSeeds.push_back(CDNSSeedData("bitcoin.sipa.be", "seed.bitcoin.sipa.be")); // Pieter Wuille
+        vSeeds.push_back(CDNSSeedData("flurbo.sipa.be", "seed.flurbo.sipa.be")); // Pieter Wuille
         vSeeds.push_back(CDNSSeedData("bluematt.me", "dnsseed.bluematt.me")); // Matt Corallo
-        vSeeds.push_back(CDNSSeedData("dashjr.org", "dnsseed.bitcoin.dashjr.org")); // Luke Dashjr
-        vSeeds.push_back(CDNSSeedData("bitcoinstats.com", "seed.bitcoinstats.com")); // Christian Decker
+        vSeeds.push_back(CDNSSeedData("dashjr.org", "dnsseed.flurbo.dashjr.org")); // Luke Dashjr
+        vSeeds.push_back(CDNSSeedData("flurbostats.com", "seed.flurbostats.com")); // Christian Decker
         vSeeds.push_back(CDNSSeedData("xf2.org", "bitseed.xf2.org")); // Jeff Garzik
-        vSeeds.push_back(CDNSSeedData("bitcoin.jonasschnelli.ch", "seed.bitcoin.jonasschnelli.ch")); // Jonas Schnelli
+        vSeeds.push_back(CDNSSeedData("flurbo.jonasschnelli.ch", "seed.flurbo.jonasschnelli.ch")); // Jonas Schnelli
 	*/
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,35);//F
@@ -215,9 +215,9 @@ public:
         vFixedSeeds.clear();
         vSeeds.clear();
 	/*
-        vSeeds.push_back(CDNSSeedData("bitcoin.petertodd.org", "testnet-seed.bitcoin.petertodd.org"));
+        vSeeds.push_back(CDNSSeedData("flurbo.petertodd.org", "testnet-seed.flurbo.petertodd.org"));
         vSeeds.push_back(CDNSSeedData("bluematt.me", "testnet-seed.bluematt.me"));
-        vSeeds.push_back(CDNSSeedData("bitcoin.schildbach.de", "testnet-seed.bitcoin.schildbach.de"));
+        vSeeds.push_back(CDNSSeedData("flurbo.schildbach.de", "testnet-seed.flurbo.schildbach.de"));
 	*/
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,128);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,239);
