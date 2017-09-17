@@ -1,13 +1,13 @@
 Flurbo Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/flurbo/flurbo.svg?branch=master)](https://travis-ci.org/flurbo/flurbo)
+[![Build Status](https://travis-ci.org/Flurbos/flurbo.svg?branch=master)](https://travis-ci.org/Flurbos/flurbo)
 
 https://tba.org
 
-What is Flurbo/Flurbo?
+What is Flurbo/Bitcoin?
 ----------------
-Like Flurbo, Flurbo is an experimental new digital currency that enables instant
+Like Bitcoin, Flurbo is an experimental new digital currency that enables instant
 payments to anyone, anywhere in the world. Flurbo uses peer-to-peer technology to
 operate with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Flurbo Core is the name of open source software
@@ -15,36 +15,37 @@ which enables the use of this currency.
 
 Flurbo has another goal in place, and that is to enable an idea that's been tossed around
 this idea is: Fair gambling added as a standard transaction.
-By fair gambling we will allow to users to both gamble x Flurbos using the blockchain itself
+By fair gambling we will allow to users to both gamble x Bitcoins using the blockchain itself
 thus achieving provably fair gambling with only costs involved being optional transaction fees.
 This idea has been seen / discussed / proven at the following links;
 *will add soon.
 
-Flurbos main goal however is to be for fun, do not expect your Flurbo's to gain in value.
+Flurbo's main goal however is to be for fun, do not expect your Bitcoin's to gain in value.
+The main reason i made these was a desire to own some Flurbo's of my own, and maybe others share that desire.
 
 ~ 
 
-Flurbo is an experimental new digital currency that enables instant payments to
-anyone, anywhere in the world. Flurbo uses peer-to-peer technology to operate
+Bitcoin is an experimental new digital currency that enables instant payments to
+anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Flurbo Core is the name of open source
+out collectively by the network. Bitcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Flurbo Core software, see https://flurbo.org/en/download, or read the
+the Bitcoin Core software, see https://flurbo.org/en/download, or read the
 [original whitepaper](https://flurbocore.org/flurbo.pdf).
 
 License
 -------
 
-Flurbo Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/flurbo/flurbo/tags) are created
+completely stable. [Tags](https://github.com/Flurbos/flurbo/tags) are created
 regularly to indicate new official, stable release versions of Flurbo Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
@@ -87,7 +88,7 @@ Translations
 ------------
 
 Changes to translations as well as new translations can be submitted to
-[Flurbo Core's Transifex page](https://www.transifex.com/projects/p/flurbo/).
+[Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/flurbo/).
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
