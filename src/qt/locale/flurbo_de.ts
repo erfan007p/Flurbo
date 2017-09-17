@@ -3308,7 +3308,7 @@
         <translation>Über einen SOCKS5-Proxy &amp;verbinden</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Flurbo Core Developers</source>
+        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
         <translation>Urheberrecht (C) 2009-%i Die "Flurbo Core"-Entwickler</translation>
     </message>
     <message>

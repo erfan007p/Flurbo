@@ -2433,8 +2433,8 @@
         <translation>Külső cím (-whitebind address) feloldása nem sikerült: '%s'</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Flurbo Core Developers</source>
-        <translation>Copyright (C) 2009-%i A Flurbo Core Fejlesztői</translation>
+        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
+        <translation>Copyright (C) 2009-%i A Bitcoin Core Fejlesztői</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>

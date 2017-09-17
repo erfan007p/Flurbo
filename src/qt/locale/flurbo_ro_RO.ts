@@ -3004,8 +3004,8 @@
         <translation>Conectare prin proxy SOCKS5</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Flurbo Core Developers</source>
-        <translation>Copyright (C) 2009-%i Dezvoltatorii Flurbo</translation>
+        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
+        <translation>Copyright (C) 2009-%i Dezvoltatorii Bitcoin</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>

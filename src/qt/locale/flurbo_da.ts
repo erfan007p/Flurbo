@@ -3316,7 +3316,7 @@
         <translation>Forbind gennem SOCKS5-proxy</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Flurbo Core Developers</source>
+        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
         <translation>Ophavsret © 2009-%i Udviklerne af Flurbo Core</translation>
     </message>
     <message>

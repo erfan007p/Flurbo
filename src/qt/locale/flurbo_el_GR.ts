@@ -2652,7 +2652,7 @@
         <translation>Σύνδεση μέσω διαμεσολαβητή SOCKS5</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Flurbo Core Developers</source>
+        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
         <translation>Πνευματικά δικαιώματα 2009-%i Οι προγραμματιστές του Flurbo Core</translation>
     </message>
     <message>

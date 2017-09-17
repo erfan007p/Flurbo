@@ -3317,8 +3317,8 @@ Var vänlig och försök igen.</translation>
         <translation>Anslut genom SOCKS5 proxy</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Flurbo Core Developers</source>
-        <translation>Copyright (C) 2009-%i Flurbo Core Utvecklarna</translation>
+        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
+        <translation>Copyright (C) 2009-%i Bitcoin Core Utvecklarna</translation>
     </message>
     <message>
         <source>Error loading wallet.dat: Wallet requires newer version of Flurbo Core</source>

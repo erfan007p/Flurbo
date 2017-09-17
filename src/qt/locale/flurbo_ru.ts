@@ -3316,7 +3316,7 @@
         <translation>Подключаться через SOCKS5 прокси</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Flurbo Core Developers</source>
+        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
         <translation>Все права защищены © 2009-%i Разработчики Flurbo Core</translation>
     </message>
     <message>

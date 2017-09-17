@@ -3317,8 +3317,8 @@ Per specificare più URL separarli con una barra verticale "|".</translation>
         <translation>Connessione attraverso un proxy SOCKS5</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Flurbo Core Developers</source>
-        <translation>Copyright (C) 2009-%i Gli sviluppatori di Flurbo Core</translation>
+        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
+        <translation>Copyright (C) 2009-%i Gli sviluppatori di Bitcoin Core</translation>
     </message>
     <message>
         <source>Error loading wallet.dat: Wallet requires newer version of Flurbo Core</source>

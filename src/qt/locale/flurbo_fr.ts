@@ -3316,8 +3316,8 @@
         <translation>Se connecter par un mandataire SOCKS5</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Flurbo Core Developers</source>
-        <translation>Copyright © 2009-%i Les développeurs de Flurbo Core</translation>
+        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
+        <translation>Copyright © 2009-%i Les développeurs de Bitcoin Core</translation>
     </message>
     <message>
         <source>Error loading wallet.dat: Wallet requires newer version of Flurbo Core</source>

@@ -3316,7 +3316,7 @@
         <translation>SOCKS5 vekil sunucusu vasıtasıyla bağlan</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Flurbo Core Developers</source>
+        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
         <translation>Telif hakkı 2009-%i Flurbo Çekirdeği Geliştiricileri</translation>
     </message>
     <message>
