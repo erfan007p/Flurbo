@@ -5,7 +5,7 @@ Flurbo Core integration/staging tree
 
 https://tba.org
 
-What is Flurbo/Bitcoin?
+What is Flurbo?
 ----------------
 Like Bitcoin, Flurbo is an experimental new digital currency that enables instant
 payments to anyone, anywhere in the world. Flurbo uses peer-to-peer technology to
@@ -20,11 +20,12 @@ thus achieving provably fair gambling with only costs involved being optional tr
 This idea has been seen / discussed / proven at the following links;
 *will add soon.
 
-Flurbo's main goal however is to be for fun, do not expect your Bitcoin's to gain in value.
+Flurbo's main goal however is to be for fun, do not expect your Flurbo's to gain in value.
 The main reason i made these was a desire to own some Flurbo's of my own, and maybe others share that desire.
 
 ~ 
-
+What is Bitcoin?
+----------------
 Bitcoin is an experimental new digital currency that enables instant payments to
 anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
@@ -32,8 +33,8 @@ out collectively by the network. Bitcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Bitcoin Core software, see https://flurbo.org/en/download, or read the
-[original whitepaper](https://flurbocore.org/flurbo.pdf).
+the Bitcoin Core software, see https://bitcoin.org/en/download, or read the
+[original whitepaper](https://bitcoincore.org/bitcoin.pdf).
 
 License
 -------
