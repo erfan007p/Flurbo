@@ -118,7 +118,7 @@ public:
 	//For now..
         vFixedSeeds.clear();
         vSeeds.clear();
-
+	
 	/* Fix later
         vSeeds.push_back(CDNSSeedData("flurbo.sipa.be", "seed.flurbo.sipa.be")); // Pieter Wuille
         vSeeds.push_back(CDNSSeedData("bluematt.me", "dnsseed.bluematt.me")); // Matt Corallo
@@ -145,8 +145,7 @@ public:
 
         checkpointData = (CCheckpointData) {
             boost::assign::map_list_of
-/*            ( 11111, uint256S("0x0000000069e244f73d78e8fd29ba2fd2ed618bd6fa2ee92559f542fdb26e7c1d"))
-            ( 33333, uint256S("0x000000002dd5588a74784eaa7ab0507a18ad16a236e7b1ce69f00d7ddfb5d0a6"))
+	    /*
             ( 74000, uint256S("0x0000000000573993a3c9e41ce34471c079dcf5f52a0e824a81e7f953b8661a20"))
             (105000, uint256S("0x00000000000291ce28027faea320c8d2b054b2e0fe44a773f3eefb151d6bdc97"))
             (134444, uint256S("0x00000000000005b12ffd4cd315cd34ffd4a594f430ac814c91184a0d42d2b0fe"))
@@ -159,7 +158,9 @@ public:
             (279000, uint256S("0x0000000000000001ae8c72a0b0c301f67e3afca10e819efa9041e458e9bd7e40"))
 */
             ( 0, uint256S("0x00000000a7978cb4845455e14ab03555af5dd0f9d2066476430a240a240bc4c9"))
-	    ( 3, uint256S("0x00000000da524545fd1947fa1c577984f823a9a4a1cba3752b47383621056784")), 
+	    ( 3, uint256S("0x00000000da524545fd1947fa1c577984f823a9a4a1cba3752b47383621056784"))
+	    ( 11111, uint256S("0x0000000000f36b7e56f02c45fb7f34b0994d34657bce54e9d7e7f80982fe2fbe"))
+            ( 22222, uint256S("0x00000000000004f72b4d43aa2322332d27b030005bcc638ad433a1ca43ab7caa")), 
             1505552357, //1504946923, // * UNIX timestamp of last checkpoint block
             3,   // * total number of transactions between genesis and last checkpoint
                         //   (the tx=... number in the SetBestChain debug.log lines)
