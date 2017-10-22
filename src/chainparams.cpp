@@ -115,9 +115,11 @@ public:
         assert(consensus.hashGenesisBlock == uint256S("0x00000000a7978cb4845455e14ab03555af5dd0f9d2066476430a240a240bc4c9"));
         assert(genesis.hashMerkleRoot == uint256S("0xab389382081431342fdd6a946fa28faf6e1846f8cfc92fbff3d3c1df11d46874"));
 
-	//For now..
-        vFixedSeeds.clear();
-        vSeeds.clear();
+	//Shouldn't need now..
+        //vFixedSeeds.clear();
+        //vSeeds.clear();
+	
+	vSeeds.push_back(CDNSSeedData("flurbo.xyz", "dnsseed.flurbo.xyz")); // Badchoicesz
 	
 	/* Fix later
         vSeeds.push_back(CDNSSeedData("flurbo.sipa.be", "seed.flurbo.sipa.be")); // Pieter Wuille
