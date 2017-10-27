@@ -119,7 +119,8 @@ public:
         //vFixedSeeds.clear();
         //vSeeds.clear();
 	
-	vSeeds.push_back(CDNSSeedData("flurbo.xyz", "dnsseed.flurbo.xyz", "seed.prenges.rocks")); // Badchoicesz
+	vSeeds.push_back(CDNSSeedData("flurbo.xyz", "dnsseed.flurbo.xyz")); // Badchoicesz
+	vSeeds.push_back(CDNSSeedData("prenges.rocks", "seed.prenges.rocks"));
 	
 	/* Fix later
         vSeeds.push_back(CDNSSeedData("flurbo.sipa.be", "seed.flurbo.sipa.be")); // Pieter Wuille
